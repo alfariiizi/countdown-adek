@@ -1,6 +1,7 @@
 import React from "react";
 import { useCountdown } from "../utils/useCountdown";
 import Congratulation from "./Congratulation";
+import Greeting from "./Greeting";
 import UiCountdown from "./UiCountdown";
 
 const Home = () => {
@@ -22,7 +23,10 @@ const Home = () => {
           seconds={seconds}
         />
       ) : (
-        <Congratulation />
+        <div>
+          <Congratulation />
+          <Greeting />
+        </div>
       )}
     </div>
   );
