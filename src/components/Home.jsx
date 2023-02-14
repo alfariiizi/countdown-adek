@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import { useCountdown } from "../utils/useCountdown";
 import Congratulation from "./Congratulation";
 import Greeting from "./Greeting";
@@ -10,23 +10,35 @@ import ImgHeroIbuk from "../assets/hero-ibuk.jpg";
 import ImgHeroAlfarizi from "../assets/hero-alfarizi.jpeg";
 
 const Home = () => {
+  const [isBtnFinishingDate, setIsBtnFinishDate] = useState(false);
+
   // Januari: 0; Februari: 1; Maret: 2, dst.
   // const [days, hours, minutes, seconds] = useCountdown(new Date(2023, 1, 22));
   const [days, hours, minutes, seconds] = useCountdown(
-    new Date(2023, 1, 11, 17, 45)
+    new Date(2023, 1, 14, 14, 17)
   );
 
   const isFinish = days + hours + minutes + seconds <= 0;
 
   return (
     <div className="h-screen w-screen bg-gradient-to-tr from-primary-600 to-tertiary-700 transition-all">
-      {!isFinish ? (
-        <UiCountdown
-          days={days}
-          hours={hours}
-          minutes={minutes}
-          seconds={seconds}
-        />
+      {!isFinish && !isBtnFinishingDate ? (
+        <div>
+          <UiCountdown
+            days={days}
+            hours={hours}
+            minutes={minutes}
+            seconds={seconds}
+          />
+          {/* This button only use for testing */}
+          <button
+            onClick={() => {
+              setIsBtnFinishDate(true);
+            }}
+            className="rounded bg-white p-1 hover:bg-slate-200">
+            Finish Date
+          </button>
+        </div>
       ) : (
         <div>
           <Congratulation />
