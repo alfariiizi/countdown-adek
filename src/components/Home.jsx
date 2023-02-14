@@ -62,7 +62,7 @@ const Home = () => {
             />
             <Greeting
               imageSrc={ImgHeroAlfarizi}
-              memberName={"Kakak"}
+              memberName={"Mas"}
               text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque earum aperiam ducimus a. Aliquam reprehenderit consectetur earum itaque laboriosam enim atque vero, animi nesciunt quisquam soluta! Perspiciatis pariatur amet a.
             Facere nihil mollitia hic, libero accusamus unde, sit error magni voluptates nesciunt sunt iure aliquid. Minus vitae, praesentium, nihil ipsa officiis officia facilis vero quibusdam, fuga expedita esse id non."
             />
