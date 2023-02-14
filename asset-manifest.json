@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/countdown-adek/static/css/main.c258a4a7.css",
-    "main.js": "/countdown-adek/static/js/main.f0a2ab5e.js",
+    "main.js": "/countdown-adek/static/js/main.3b7f9d0e.js",
     "static/js/787.aff1ea94.chunk.js": "/countdown-adek/static/js/787.aff1ea94.chunk.js",
     "static/media/hero-nadia.png": "/countdown-adek/static/media/hero-nadia.5149ebe5e23a4f332e29.png",
     "static/media/photo17.jpeg": "/countdown-adek/static/media/photo17.e6acf8533b058e63c413.jpeg",
@@ -31,11 +31,11 @@
     "static/media/photo22.jpeg": "/countdown-adek/static/media/photo22.a802814c8139ede84ec2.jpeg",
     "index.html": "/countdown-adek/index.html",
     "main.c258a4a7.css.map": "/countdown-adek/static/css/main.c258a4a7.css.map",
-    "main.f0a2ab5e.js.map": "/countdown-adek/static/js/main.f0a2ab5e.js.map",
+    "main.3b7f9d0e.js.map": "/countdown-adek/static/js/main.3b7f9d0e.js.map",
     "787.aff1ea94.chunk.js.map": "/countdown-adek/static/js/787.aff1ea94.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c258a4a7.css",
-    "static/js/main.f0a2ab5e.js"
+    "static/js/main.3b7f9d0e.js"
   ]
 }
