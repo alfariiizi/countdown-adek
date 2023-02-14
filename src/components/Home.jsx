@@ -8,10 +8,10 @@ import Gallery from "./Gallery";
 
 const Home = () => {
   // Januari: 0; Februari: 1; Maret: 2, dst.
-  const [days, hours, minutes, seconds] = useCountdown(new Date(2023, 1, 22));
-  // const [days, hours, minutes, seconds] = useCountdown(
-  //   new Date(2023, 1, 22, 17, 45)
-  // );
+  // const [days, hours, minutes, seconds] = useCountdown(new Date(2023, 1, 22));
+  const [days, hours, minutes, seconds] = useCountdown(
+    new Date(2023, 1, 11, 17, 45)
+  );
 
   const isFinish = days + hours + minutes + seconds <= 0;
 
@@ -40,6 +40,7 @@ const Home = () => {
             />
             <Greeting
               imageSrc={HeroAlfarizi}
+              isBoxReverse={true}
               memberName={"Kakak"}
               text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque earum aperiam ducimus a. Aliquam reprehenderit consectetur earum itaque laboriosam enim atque vero, animi nesciunt quisquam soluta! Perspiciatis pariatur amet a.
             Facere nihil mollitia hic, libero accusamus unde, sit error magni voluptates nesciunt sunt iure aliquid. Minus vitae, praesentium, nihil ipsa officiis officia facilis vero quibusdam, fuga expedita esse id non."
