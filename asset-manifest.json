@@ -1,17 +1,41 @@
 {
   "files": {
-    "main.css": "/countdown-adek/static/css/main.53b88776.css",
-    "main.js": "/countdown-adek/static/js/main.7df5e556.js",
+    "main.css": "/countdown-adek/static/css/main.c258a4a7.css",
+    "main.js": "/countdown-adek/static/js/main.f0a2ab5e.js",
     "static/js/787.aff1ea94.chunk.js": "/countdown-adek/static/js/787.aff1ea94.chunk.js",
     "static/media/hero-nadia.png": "/countdown-adek/static/media/hero-nadia.5149ebe5e23a4f332e29.png",
-    "static/media/hero-alfarizi.jpeg": "/countdown-adek/static/media/hero-alfarizi.09da3c9d2e41728570d7.jpeg",
+    "static/media/photo17.jpeg": "/countdown-adek/static/media/photo17.e6acf8533b058e63c413.jpeg",
+    "static/media/hero-alfarizi.jpeg": "/countdown-adek/static/media/hero-alfarizi.902b7eed5db26a8f22a2.jpeg",
+    "static/media/photo1.jpeg": "/countdown-adek/static/media/photo1.4f934a51307e1133b996.jpeg",
+    "static/media/photo12.jpeg": "/countdown-adek/static/media/photo12.535240f8c52c68e240ee.jpeg",
+    "static/media/photo5.jpeg": "/countdown-adek/static/media/photo5.1f5f01ee617321c7a246.jpeg",
+    "static/media/photo2.jpeg": "/countdown-adek/static/media/photo2.b895110cfb0465255d39.jpeg",
+    "static/media/hero-ayah.jpg": "/countdown-adek/static/media/hero-ayah.7d80c12014f196bf61f2.jpg",
+    "static/media/photo7.jpeg": "/countdown-adek/static/media/photo7.ba64084c6d8eb5c7b196.jpeg",
+    "static/media/photo16.jpeg": "/countdown-adek/static/media/photo16.1e916fbd622947853579.jpeg",
+    "static/media/photo6.jpeg": "/countdown-adek/static/media/photo6.aa2c63f5c351a3add410.jpeg",
+    "static/media/photo11.jpeg": "/countdown-adek/static/media/photo11.ae4a6261ee40770110bb.jpeg",
+    "static/media/photo3.jpeg": "/countdown-adek/static/media/photo3.bb8ac7dd5e0d6ba52d21.jpeg",
+    "static/media/photo4.jpeg": "/countdown-adek/static/media/photo4.ababe891270b798aa995.jpeg",
+    "static/media/photo21.jpeg": "/countdown-adek/static/media/photo21.6236a074ed28f2582a5a.jpeg",
+    "static/media/photo8.jpeg": "/countdown-adek/static/media/photo8.be8a1468f64b3505cc19.jpeg",
+    "static/media/photo9.jpeg": "/countdown-adek/static/media/photo9.85aa742d02677addf50a.jpeg",
+    "static/media/photo10.jpeg": "/countdown-adek/static/media/photo10.0ca34768a9d97246cd94.jpeg",
+    "static/media/photo13.jpeg": "/countdown-adek/static/media/photo13.90995b802bea1def32cb.jpeg",
+    "static/media/photo19.jpeg": "/countdown-adek/static/media/photo19.55795c71bd242a27b63d.jpeg",
+    "static/media/photo20.jpeg": "/countdown-adek/static/media/photo20.6216220835a0712d8e58.jpeg",
+    "static/media/photo14.jpeg": "/countdown-adek/static/media/photo14.c6f39cacea9b0bddefdc.jpeg",
+    "static/media/hero-ibuk.jpg": "/countdown-adek/static/media/hero-ibuk.aa206352b38503c3b4c5.jpg",
+    "static/media/photo18.jpeg": "/countdown-adek/static/media/photo18.7502a0987713ed42f48b.jpeg",
+    "static/media/photo15.jpeg": "/countdown-adek/static/media/photo15.c8fd0b16520571dbfcf1.jpeg",
+    "static/media/photo22.jpeg": "/countdown-adek/static/media/photo22.a802814c8139ede84ec2.jpeg",
     "index.html": "/countdown-adek/index.html",
-    "main.53b88776.css.map": "/countdown-adek/static/css/main.53b88776.css.map",
-    "main.7df5e556.js.map": "/countdown-adek/static/js/main.7df5e556.js.map",
+    "main.c258a4a7.css.map": "/countdown-adek/static/css/main.c258a4a7.css.map",
+    "main.f0a2ab5e.js.map": "/countdown-adek/static/js/main.f0a2ab5e.js.map",
     "787.aff1ea94.chunk.js.map": "/countdown-adek/static/js/787.aff1ea94.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.53b88776.css",
-    "static/js/main.7df5e556.js"
+    "static/css/main.c258a4a7.css",
+    "static/js/main.f0a2ab5e.js"
   ]
 }
