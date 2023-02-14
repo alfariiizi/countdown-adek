@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="">
       <Home />
-      <div className="h-[3000px]"></div>
+      {/* <div className="h-[3000px]"></div> */}
     </div>
   );
 }
