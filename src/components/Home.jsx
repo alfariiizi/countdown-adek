@@ -8,10 +8,10 @@ import Gallery from "./Gallery";
 
 const Home = () => {
   // Januari: 0; Februari: 1; Maret: 2, dst.
-  //   const [days, hours, minutes, seconds] = useCountdown(new Date(2023, 1, 22));
-  const [days, hours, minutes, seconds] = useCountdown(
-    new Date(2023, 1, 9, 17, 45)
-  );
+  const [days, hours, minutes, seconds] = useCountdown(new Date(2023, 1, 22));
+  // const [days, hours, minutes, seconds] = useCountdown(
+  //   new Date(2023, 1, 22, 17, 45)
+  // );
 
   const isFinish = days + hours + minutes + seconds <= 0;
 
