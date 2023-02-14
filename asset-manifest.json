@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53b88776.css",
+    "main.js": "/static/js/main.6c329a36.js",
+    "static/js/787.aff1ea94.chunk.js": "/static/js/787.aff1ea94.chunk.js",
+    "static/media/hero-nadia.png": "/static/media/hero-nadia.5149ebe5e23a4f332e29.png",
+    "static/media/hero-alfarizi.jpeg": "/static/media/hero-alfarizi.09da3c9d2e41728570d7.jpeg",
+    "index.html": "/index.html",
+    "main.53b88776.css.map": "/static/css/main.53b88776.css.map",
+    "main.6c329a36.js.map": "/static/js/main.6c329a36.js.map",
+    "787.aff1ea94.chunk.js.map": "/static/js/787.aff1ea94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53b88776.css",
+    "static/js/main.6c329a36.js"
+  ]
+}
