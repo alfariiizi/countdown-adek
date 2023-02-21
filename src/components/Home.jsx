@@ -13,7 +13,9 @@ const Home = () => {
   const [isBtnFinishingDate, setIsBtnFinishDate] = useState(false);
 
   // Januari: 0; Februari: 1; Maret: 2, dst.
-  const [days, hours, minutes, seconds] = useCountdown(new Date(2023, 1, 22));
+  const [days, hours, minutes, seconds] = useCountdown(
+    new Date(2023, 1, 22, 5, 30)
+  );
   // const [days, hours, minutes, seconds] = useCountdown(
   //   new Date(2023, 1, 14, 14, 21)
   // );
